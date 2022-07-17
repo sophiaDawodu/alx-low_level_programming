@@ -1,0 +1,1 @@
+$ cc -fPIC -shared -o libdynamic.so 100-operations.c
